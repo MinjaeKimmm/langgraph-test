@@ -1,0 +1,12 @@
+.env
+.ipynb_checkpoints
+.langgraph-data
+
+test/*
+__pycache__
+
+langgraph_eng_package.egg-info
+
+.DS_Store
+
+.langgraph_api

@@ -1,0 +1,12 @@
+{
+  "python_version": "3.11",
+  "dockerfile_lines": [],
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "engineer": "./src/langgraph_engineer/agent.py:graph",
+    "tavily": "./src/langgraph_tavily/agent.py:graph"
+  },
+  "env": ".env"
+}
